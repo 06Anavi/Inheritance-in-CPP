@@ -1,6 +1,3 @@
-// Aditya Jadhav
-// 24070123005
-
 #include<iostream>
 using namespace std;
 
@@ -29,4 +26,5 @@ int main() {
 
 // OUTPUT
 // Vehicle color is Red
+
 // Car speed is 200km/h
